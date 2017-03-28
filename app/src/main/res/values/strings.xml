@@ -28,4 +28,10 @@
     <string name="form_commentary">Comentario</string>
     <string name="str_btn_update">Actualizar</string>
     <string name="str_title_toolbar">Mi perfil</string>
+    <string name="str_menu_plus">MÁS</string>
+    <string name="str_menu_change_name">Cambiar nombre</string>
+    <string name="str_menu_update">Actualizar</string>
+    <string name="str_menu_return">Regresar a contactos</string>
+
+    <string name="str_txt_name2">Nombre: Ivonne Barco</string>
 </resources>
